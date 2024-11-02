@@ -9,7 +9,7 @@ Welcome to my GitHub! As a computer science student, I'm passionate about **prob
 - **🔒 AI in Cybersecurity**  
    *Exploring threat detection and prevention through machine learning to advance security systems.*
 
-- **🌍 PlanIt: Your AI Travel Companion**![>>](https://github.com/duttaturja/PlanIt-Your-AI-Powered-Travel-Companion)  
+- **🌍 PlanIt: Your AI Travel Companion**[>>](https://github.com/duttaturja/PlanIt-Your-AI-Powered-Travel-Companion)  
    *Developing an AI-powered assistant for budget travelers, utilizing Retrieval-Augmented Generation (RAG) and LLMs.*
 
 <!-- - **📁 Virtual File System (VFS)**  
@@ -18,7 +18,7 @@ Welcome to my GitHub! As a computer science student, I'm passionate about **prob
 - **🔧 Python IDE**  
    *Building an IDE for Python with dynamic syntax recommendations and autocomplete for enhanced productivity.*
 
-- **📚 Online Job Portal**![>>](https://github.com/duttaturja/Onlinejobportal)
+- **📚 Online Job Portal**[>>](https://github.com/duttaturja/Onlinejobportal)
    *Designing a digital platform for the job seekers and the empolyers.*
 
 ---
