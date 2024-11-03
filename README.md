@@ -60,7 +60,7 @@ Welcome to my GitHub! As a computer science student, I'm passionate about **prob
 ## 🎮 Fun Fact
 I play video games to escape reality… then rage-quit and face it anyway 😅.
 
---
+---
 
 ## 📈 GitHub Stats
 ![Turja's GitHub stats](https://github-readme-stats.vercel.app/api?username=duttaturja&show_icons=true&theme=radical)     [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=duttaturja)](https://git.io/streak-stats)
