@@ -6,8 +6,8 @@ Welcome to my GitHub! As a computer science student, I'm passionate about **prob
 
 ## 🌟 Current Projects
 
-- **🔒 AI in Cybersecurity**  
-   *Exploring threat detection and prevention through machine learning to advance security systems.*
+- **📚 Research on Large Language Models**  
+   *Exploring ways to optimize computational resources through sub-model architectures, tackling practical implementation challenges, and proposing a state-of-the-art architecture for the future of LLMs.*
 
 - **🌍 PlanIt: Your AI Travel Companion** [>>](https://github.com/duttaturja/PlanIt-Your-AI-Powered-Travel-Companion)  
    *Developing an AI-powered assistant for budget travelers, utilizing Retrieval-Augmented Generation (RAG) and LLMs.*
