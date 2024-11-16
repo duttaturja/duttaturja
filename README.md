@@ -15,7 +15,7 @@ Welcome to my GitHub! As a computer science student, I'm passionate about **prob
 <!-- - **📁 Virtual File System (VFS)**  
    *Creating a virtual file system simulation to deepen my understanding of OS fundamentals.*-->
 
-- **🔧 The Great IDE**[>>](https://github.com/duttaturja/The-Great-IDE)
+- **🔧 The Great IDE**[>>](https://github.com/duttaturja/The-Great-IDE)<br>
    *Building an IDE for Python with dynamic syntax recommendations and autocomplete for enhanced productivity.*
 
 - **📚 Online Job Portal** [>>](https://github.com/duttaturja/Onlinejobportal)<br>
@@ -51,7 +51,7 @@ Welcome to my GitHub! As a computer science student, I'm passionate about **prob
 
 ---
 ## 📂 Resume
-[Turja Dutta](https://drive.google.com/file/d/161zRebZaew_g_wuC49EbZclviqd6ot9t/view?usp=sharing)
+[Click me!]([https://drive.google.com/file/d/161zRebZaew_g_wuC49EbZclviqd6ot9t/view?usp=sharing](https://drive.google.com/file/d/161zRebZaew_g_wuC49EbZclviqd6ot9t/view?usp=sharing))
 ---
 
 ## 👨‍💻 What I Love
