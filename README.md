@@ -15,7 +15,7 @@ Welcome to my GitHub! As a computer science student, I'm passionate about **prob
 <!-- - **📁 Virtual File System (VFS)**  
    *Creating a virtual file system simulation to deepen my understanding of OS fundamentals.*-->
 
-- **🔧 The Great IDE**[>>](https://github.com/duttaturja/The-Great-IDE)<br>
+- **🔧 The Great IDE** [>>](https://github.com/duttaturja/The-Great-IDE)<br>
    *Building an IDE for Python with dynamic syntax recommendations and autocomplete for enhanced productivity.*
 
 - **📚 Online Job Portal** [>>](https://github.com/duttaturja/Onlinejobportal)<br>
@@ -74,8 +74,8 @@ I play video games to escape reality… then rage-quit and face it anyway 😅.
 ## 📫 Connect with Me
 
 - **GitHub**: [duttaturja](https://github.com/duttaturja)
- <!-- - **LinkedIn**: [Your LinkedIn Profile](#)Replace with your LinkedIn profile link if available -->
-- **Email**: [duttaturja@gmail.com](mailto:duttaturja@gmail.com) <!-- Replace with your email if comfortable -->
+- **LinkedIn**: [Turja Dutta](https://www.linkedin.com/in/turja-dutta-20ab00277/)
+- **Email**: [duttaturja@gmail.com](mailto:duttaturja@gmail.com) 
 
 I’m always excited to collaborate on meaningful projects, especially those focused on innovation and real-world impact. Let's connect and create something amazing!
 
