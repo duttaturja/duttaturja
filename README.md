@@ -51,7 +51,7 @@ Welcome to my GitHub! As a computer science student, I'm passionate about **prob
 
 ---
 ## 📂 Resume
-[Click me!]([https://drive.google.com/file/d/161zRebZaew_g_wuC49EbZclviqd6ot9t/view?usp=sharing](https://drive.google.com/file/d/161zRebZaew_g_wuC49EbZclviqd6ot9t/view?usp=sharing))
+[Click me!](https://drive.google.com/file/d/161zRebZaew_g_wuC49EbZclviqd6ot9t/view?usp=sharing)
 ---
 
 ## 👨‍💻 What I Love
