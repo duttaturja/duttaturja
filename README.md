@@ -36,6 +36,7 @@ Welcome to my GitHub! As a computer science student, I'm passionate about **prob
 
 - **AI & Machine Learning**:  
    Machine learning fundamentals, data preprocessing, model training, and working with **Large Language Models (LLMs), Retrieval-Augmented Gneration (RAG)**.<br>
+   <br>
    ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 - **Tools & Platforms**:  
