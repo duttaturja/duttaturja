@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Turja Dutta.
 
-Welcome to my GitHub! As a computer science student, I'm passionate about **problem-solving** and harnessing **technology** to create meaningful impact. My interests range from **AI and Cybersecurity** to **full-stack development**, where I dive deep into building impactful applications and innovative solutions.
+Welcome to my GitHub! As a computer science student, I'm passionate about **problem-solving** and harnessing **technology** to create meaningful impact. My interests range from **AI and Machine Learning** to **full-stack development**, where I dive deep into building impactful applications and innovative solutions.
 
 ---
 
@@ -69,7 +69,8 @@ I play video games to escape reality… then rage-quit and face it anyway 😅.
 
 ## 📈 GitHub Stats
 ![Turja's GitHub stats](https://github-readme-stats.vercel.app/api?username=duttaturja&show_icons=true&theme=radical)     [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=duttaturja)](https://git.io/streak-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duttaturja&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duttaturja&layout=compact&theme=radical)     [![](https://visitcount.itsvg.in/api?id=C221026-Turja&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
