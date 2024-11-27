@@ -12,6 +12,9 @@ Welcome to my GitHub! As a computer science student, I'm passionate about **prob
 - **🌍 PlanIt: Your AI Travel Companion** [>>](https://github.com/duttaturja/PlanIt-Your-AI-Powered-Travel-Companion)  
    *Developing an AI-powered assistant for budget travelers, utilizing Retrieval-Augmented Generation (RAG) and LLMs.*
 
+- **📈 COVID-19 Prediction Agent**  
+  Building a system that predicts COVID-19 cases based on chest X-ray images, leveraging AI for healthcare innovation.
+
 <!-- - **📁 Virtual File System (VFS)**  
    *Creating a virtual file system simulation to deepen my understanding of OS fundamentals.*-->
 
@@ -46,7 +49,7 @@ Welcome to my GitHub! As a computer science student, I'm passionate about **prob
 
 ## 🌱 Currently Learning
 - **Advanced AI Techniques**: Specializing in Retrieval-Augmented Generation (RAG) and LLMs for dynamic applications.
-- **Cybersecurity Applications**: Gaining deeper insights into AI-driven threat detection.
+- **AI in Healthcare**: Working on a COVID-19 prediction agent that diagnoses COVID-19 from chest X-ray images using machine learning techniques.
 - **NLP (Natural Language Processing)**: Diving into text analysis and language modeling.
 - **LangChain**: Exploring tools for creating advanced language models.
 - **Backend with Python-Django**: Strengthening my expertise in backend development with Django.
