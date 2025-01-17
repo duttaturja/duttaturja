@@ -20,11 +20,11 @@ Welcome to my GitHub! As a computer science student, I'm passionate about **prob
 - **🌍 PlanIt: Your AI Travel Companion** [>>](https://github.com/duttaturja/PlanIt-Your-AI-Powered-Travel-Companion)  
    *Developing an AI-powered assistant for budget travelers, utilizing Retrieval-Augmented Generation (RAG) and LLMs.*
 
-- **📈 COVID-19 Prediction Agent**  [>>](https://github.com/Sayemahamed/AI-Lab-Project) <br>
-  Building a system that predicts COVID-19 cases based on chest X-ray images, leveraging AI for healthcare innovation.
+<!--- **📈 COVID-19 Prediction Agent**  [>>](https://github.com/Sayemahamed/AI-Lab-Project) <br>
+  Building a system that predicts COVID-19 cases based on chest X-ray images, leveraging AI for healthcare innovation.-->
 
-<!-- - **📁 Virtual File System (VFS)**  
-   *Creating a virtual file system simulation to deepen my understanding of OS fundamentals.*-->
+ - **📁 Virtual File System (VFS)**  [>>](https://github.com/duttaturja/Virtual-File-System)<br>
+   *Creating a virtual file system simulation to deepen my understanding of OS fundamentals.*
 
 - **🔧 The Great IDE** [>>](https://github.com/duttaturja/The-Great-IDE)<br>
    *Building an IDE for Python with dynamic syntax recommendations and autocomplete for enhanced productivity.*
