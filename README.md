@@ -20,8 +20,8 @@ Welcome to my GitHub! As a computer science student, I'm passionate about **prob
 - **🌍 PlanIt: Your AI Travel Companion** [>>](https://github.com/duttaturja/PlanIt-Your-AI-Powered-Travel-Companion)  
    *Developing an AI-powered assistant for budget travelers, utilizing Retrieval-Augmented Generation (RAG) and LLMs.*
 
-<!--- **📈 COVID-19 Prediction Agent**  [>>](https://github.com/Sayemahamed/AI-Lab-Project) <br>
-  Building a system that predicts COVID-19 cases based on chest X-ray images, leveraging AI for healthcare innovation.-->
+- **📈 COVID-19 Prediction Agent**  [>>](https://github.com/duttaturja/COVID-19-Prediction-Agent) <br>
+  Building a system that predicts COVID-19 cases based on chest X-ray images, leveraging AI for healthcare innovation.
 
  - **📁 Virtual File System (VFS)**  [>>](https://github.com/duttaturja/Virtual-File-System)<br>
    *Creating a virtual file system simulation to deepen my understanding of OS fundamentals.*
@@ -31,6 +31,8 @@ Welcome to my GitHub! As a computer science student, I'm passionate about **prob
 
 - **📚 Online Job Portal** [>>](https://github.com/duttaturja/Onlinejobportal)<br>
    *Designing a digital platform for the job seekers and the empolyers.*
+- **🍺 CodeBrewery-A-Collection-of-Essential-Codes** [>>](https://github.com/duttaturja/CodeBrewery-A-Collection-of-Essential-Codes)
+   *CodeBrewery, your one-stop reporsitory for all things algorithms and data structures!*
 
 ---
 
