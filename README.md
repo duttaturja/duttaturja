@@ -10,13 +10,6 @@ Welcome to my GitHub! As a computer science student, I'm passionate about **prob
 Check out my portfolio: [duttaturja](https://duttaturja.netlify.app/)
 ---
 
-## 📫 Connect with Me
-
-- **GitHub**: [duttaturja](https://github.com/duttaturja)
-- **LinkedIn**: [Turja Dutta](https://www.linkedin.com/in/turja-dutta-20ab00277/)
-- **Email**: [duttaturja@gmail.com](mailto:duttaturja@gmail.com) 
----
-
 ## 🌟 Current Projects
 
 - **📚 Research on Large Language Models**  
@@ -70,7 +63,16 @@ Check out my portfolio: [duttaturja](https://duttaturja.netlify.app/)
 - **LangChain**: Exploring tools for creating advanced language models.
 - **Backend with Python-Django**: Strengthening my expertise in backend development with Django.
 
+
 ---
+
+## 📫 Connect with Me
+
+- **GitHub**: [duttaturja](https://github.com/duttaturja)
+- **LinkedIn**: [Turja Dutta](https://www.linkedin.com/in/turja-dutta-20ab00277/)
+- **Email**: [duttaturja@gmail.com](mailto:duttaturja@gmail.com) 
+---
+
  [![](https://visitcount.itsvg.in/api?id=C221026-Turja&icon=0&color=0)](https://visitcount.itsvg.in) 
 ---
 
