@@ -3,8 +3,13 @@
 Welcome to my GitHub! As a computer science student, I'm passionate about **problem-solving** and harnessing **technology** to create meaningful impact. My interests range from **AI and Machine Learning** to **full-stack development**, where I dive deep into building impactful applications and innovative solutions.
 
 ---
- [![](https://visitcount.itsvg.in/api?id=C221026-Turja&icon=0&color=0)](https://visitcount.itsvg.in) 
+## 📂 Resume
+[Click me!](https://drive.google.com/file/d/161zRebZaew_g_wuC49EbZclviqd6ot9t/view?usp=sharing)
 ---
+## 🌐 Portfolio
+Check out my portfolio: [duttaturja](https://duttaturja.netlify.app/)
+---
+
 ## 📫 Connect with Me
 
 - **GitHub**: [duttaturja](https://github.com/duttaturja)
@@ -66,12 +71,9 @@ Welcome to my GitHub! As a computer science student, I'm passionate about **prob
 - **Backend with Python-Django**: Strengthening my expertise in backend development with Django.
 
 ---
-## 📂 Resume
-[Click me!](https://drive.google.com/file/d/161zRebZaew_g_wuC49EbZclviqd6ot9t/view?usp=sharing)
+ [![](https://visitcount.itsvg.in/api?id=C221026-Turja&icon=0&color=0)](https://visitcount.itsvg.in) 
 ---
-## 🌐 Portfolio
-Check out my portfolio: [duttaturja](https://duttaturja.netlify.app/)
----
+
 ## 👨‍💻 What I Love
 - **Problem Solving**: Tackling challenging problems and finding efficient solutions is what excites me.
 - **Full-Stack Development**: Building robust, scalable applications with Python and Django, focusing on both backend logic and user-friendly interfaces
