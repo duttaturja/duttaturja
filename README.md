@@ -30,7 +30,7 @@ Check out my portfolio: [duttaturja](https://duttaturja.netlify.app/)
 - **📚 Online Job Portal** [>>](https://github.com/duttaturja/Onlinejobportal)<br>
    *Designing a digital platform for the job seekers and the empolyers.*
   
-- **🍺 CodeBrewery-A-Collection-of-Essential-Codes** [>>](https://github.com/duttaturja/CodeBrewery-A-Collection-of-Essential-Codes)
+- **🍺 CodeBrewery-A-Collection-of-Essential-Codes** [>>](https://github.com/duttaturja/CodeBrewery-A-Collection-of-Essential-Codes)<br>
    *CodeBrewery, your one-stop reporsitory for all things algorithms and data structures!*
 
 ---
