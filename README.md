@@ -29,6 +29,7 @@ Check out my portfolio: [duttaturja](https://duttaturja.netlify.app/)
   ![Linux Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important) ![Py Charm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 
 ---
+## 🐍 My Commit History
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duttaturja/duttaturja/output/github-snake-dark.svg" />
@@ -61,16 +62,12 @@ Check out my portfolio: [duttaturja](https://duttaturja.netlify.app/)
    *CodeBrewery, your one-stop reporsitory for all things algorithms and data structures!*
 
 ---
-
-
 ## 🌱 Currently Learning
 - **Advanced AI Techniques**: Specializing in Retrieval-Augmented Generation (RAG) and LLMs for dynamic applications.
 - **AI in Healthcare**: Working on a COVID-19 prediction agent that diagnoses COVID-19 from chest X-rays using ML.
 - **NLP (Natural Language Processing)**: Diving into text analysis and language modeling.
 - **LangChain**: Exploring tools for creating advanced language models.
 - **Backend with Python-Django**: Strengthening my expertise in backend development with Django.
-
-
 ---
 
 ## 📫 Connect with Me
@@ -80,7 +77,8 @@ Check out my portfolio: [duttaturja](https://duttaturja.netlify.app/)
 - **Email**: [duttaturja@gmail.com](mailto:duttaturja@gmail.com) 
 ---
 
- [![](https://visitcount.itsvg.in/api?id=C221026-Turja&icon=0&color=0)](https://visitcount.itsvg.in) 
+ [![](https://visitcount.itsvg.in/api?id=duttaturja&icon=0&color=0)](https://visitcount.itsvg.in) 
+ 
 ---
 
 ## 👨‍💻 What I Love
@@ -96,8 +94,10 @@ I play video games to escape reality… then rage-quit and face it anyway 😅.
 ---
 
 ## 📈 GitHub Stats
-![Turja's GitHub stats](https://github-readme-stats.vercel.app/api?username=duttaturja&show_icons=true&theme=radical)     [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=duttaturja)](https://git.io/streak-stats)    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duttaturja&layout=compact&theme=radical)    
+![Turja's GitHub stats](https://github-readme-stats.vercel.app/api?username=duttaturja&show_icons=true&theme=radical)       ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duttaturja&layout=compact&theme=radical)    
 
+
+ <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=duttaturja)](https://git.io/streak-stats)  -->
 ---
 
 I’m always excited to collaborate on meaningful projects, especially those focused on innovation and real-world impact. Let's connect and create something amazing!
