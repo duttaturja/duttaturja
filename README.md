@@ -1,18 +1,20 @@
 # 👋 Hello,
 
-
-![Intro GIF](https://github.com/duttaturja/duttaturja/blob/main/duttaturja.gif?raw=true)
+<p align="center">
+  <img src="https://github.com/duttaturja/duttaturja/blob/main/duttaturja.gif" width=60% height=60% >
+</p>
 
 ---
 ## 👨‍🎓 About Me
 
 As a computer science student, I'm passionate about **problem-solving** and harnessing **technology** to create meaningful impact. My interests range from **AI and Machine Learning** to **full-stack development**, where I dive deep into building impactful applications and innovative solutions.
 
----
 ## 📂 Resume
+
 [Click me!](https://drive.google.com/file/d/161zRebZaew_g_wuC49EbZclviqd6ot9t/view?usp=sharing)
----
+
 ## 🌐 Portfolio
+
 Check out my portfolio: [duttaturja](https://duttaturja.netlify.app/)
 ---
 ## 🛠️ Skills & Technologies
@@ -45,8 +47,7 @@ Check out my portfolio: [duttaturja](https://duttaturja.netlify.app/)
 </picture>
 
 ---
-<!---
-## 🌟 Current Projects
+## 🌟 Recent Projects
 
 - **📚 Research on Large Language Models**  
    *Exploring ways to optimize computational resources through sub-model architectures, tackling practical implementation challenges, and proposing a state-of-the-art architecture for the future of LLMs.*
@@ -69,15 +70,15 @@ Check out my portfolio: [duttaturja](https://duttaturja.netlify.app/)
 - **🍺 CodeBrewery-A-Collection-of-Essential-Codes** [>>](https://github.com/duttaturja/CodeBrewery-A-Collection-of-Essential-Codes)<br>
    *CodeBrewery, your one-stop reporsitory for all things algorithms and data structures!*
 
----
---- --->
+<!---
+--- ---
 ## 🌱 Currently Learning
 - **Advanced AI Techniques**: Specializing in Retrieval-Augmented Generation (RAG) and LLMs for dynamic applications.
 - **AI in Healthcare**: Working on a COVID-19 prediction agent that diagnoses COVID-19 from chest X-rays using ML.
 - **NLP (Natural Language Processing)**: Diving into text analysis and language modeling.
 - **LangChain**: Exploring tools for creating advanced language models.
 - **Backend with Python-Django**: Strengthening my expertise in backend development with Django.
----
+--->
 
 
 <!---
