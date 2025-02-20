@@ -1,4 +1,7 @@
-# 👋 Hello, I'm Turja Dutta.
+# 👋 Hello,
+
+
+![Intro GIF](https://github.com/duttaturja/duttaturja/blob/main/duttaturja.gif?raw=true)
 
 Welcome to my GitHub! As a computer science student, I'm passionate about **problem-solving** and harnessing **technology** to create meaningful impact. My interests range from **AI and Machine Learning** to **full-stack development**, where I dive deep into building impactful applications and innovative solutions.
 
@@ -39,6 +42,7 @@ Check out my portfolio: [duttaturja](https://duttaturja.netlify.app/)
 </picture>
 
 ---
+<!---
 ## 🌟 Current Projects
 
 - **📚 Research on Large Language Models**  
@@ -63,7 +67,7 @@ Check out my portfolio: [duttaturja](https://duttaturja.netlify.app/)
    *CodeBrewery, your one-stop reporsitory for all things algorithms and data structures!*
 
 ---
-<!---
+--- --->
 ## 🌱 Currently Learning
 - **Advanced AI Techniques**: Specializing in Retrieval-Augmented Generation (RAG) and LLMs for dynamic applications.
 - **AI in Healthcare**: Working on a COVID-19 prediction agent that diagnoses COVID-19 from chest X-rays using ML.
@@ -71,7 +75,7 @@ Check out my portfolio: [duttaturja](https://duttaturja.netlify.app/)
 - **LangChain**: Exploring tools for creating advanced language models.
 - **Backend with Python-Django**: Strengthening my expertise in backend development with Django.
 ---
---->
+
 
 <!---
  [![](https://visitcount.itsvg.in/api?id=duttaturja&icon=0&color=0)](https://visitcount.itsvg.in) 
@@ -83,6 +87,7 @@ Check out my portfolio: [duttaturja](https://duttaturja.netlify.app/)
 - **Full-Stack Development**: Building robust, scalable applications with Python and Django, focusing on both backend logic and user-friendly interfaces
 - **Artificial Intelligence**: Exploring AI-driven solutions, from NLP to AI-powered assistants and healthcare applications.
 - **Continuous Learning**: Keeping up with the latest in tech and enhancing my skill set.
+
 ---
 
 ## 🎮 Fun Fact
@@ -92,9 +97,8 @@ I play video games to escape reality… then rage-quit and face it anyway 😅.
 
 ## 📫 Connect with Me
 
-- **GitHub**: [duttaturja](https://github.com/duttaturja)
-- **LinkedIn**: [Turja Dutta](https://www.linkedin.com/in/turja-dutta-20ab00277/)
-- **Email**: [duttaturja@gmail.com](mailto:duttaturja@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/turja.dutta.313) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/duttaturja) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/duttaturja) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:duttaturja@gmail.com) 
+
 ---
 
  <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=duttaturja)](https://git.io/streak-stats)  -->
