@@ -3,7 +3,10 @@
 
 ![Intro GIF](https://github.com/duttaturja/duttaturja/blob/main/duttaturja.gif?raw=true)
 
-Welcome to my GitHub! As a computer science student, I'm passionate about **problem-solving** and harnessing **technology** to create meaningful impact. My interests range from **AI and Machine Learning** to **full-stack development**, where I dive deep into building impactful applications and innovative solutions.
+---
+## 👨‍🎓 About Me
+
+As a computer science student, I'm passionate about **problem-solving** and harnessing **technology** to create meaningful impact. My interests range from **AI and Machine Learning** to **full-stack development**, where I dive deep into building impactful applications and innovative solutions.
 
 ---
 ## 📂 Resume
