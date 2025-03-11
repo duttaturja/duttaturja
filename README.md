@@ -1,22 +1,23 @@
-# 👋 Hello,
+# 👋 Hello, I'm Turja Dutta.
+<table>
+  <tr>
+    <td>
+      <h1>👨‍🎓 About Me</h1>
+     <p>As a computer science student, I'm passionate about <b>problem-solving</b> and harnessing <b>technology</b> to create meaningful impact. My interests range from <b>AI and Machine Learning</b> to <b>full-stack development</b>, where I dive deep into building impactful applications and innovative solutions.</p>
+      <h2>📂 Resume: <a href="https://drive.google.com/file/d/161zRebZaew_g_wuC49EbZclviqd6ot9t/view?usp=sharing">Click Me!</a></h2>
+      <h2>🌐 Portfolio: <a href="https://duttaturja.netlify.app">Click Me!</a></h2>
+      <p>I’m always excited to collaborate on meaningful projects, especially those focused on innovation and real-world impact. Let's connect and create something amazing!</p>
+    </td>
+    <td>
+      <img src="https://github.com/duttaturja/duttaturja/blob/main/duttaturja.gif" >
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github.com/duttaturja/duttaturja/blob/main/duttaturja.gif" width=60% height=60% >
-</p>
+## 📫 Connect with Me
 
----
-## 👨‍🎓 About Me
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/turja.dutta.313) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/duttaturja) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/duttaturja) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:duttaturja@gmail.com) 
 
-As a computer science student, I'm passionate about **problem-solving** and harnessing **technology** to create meaningful impact. My interests range from **AI and Machine Learning** to **full-stack development**, where I dive deep into building impactful applications and innovative solutions.
-
-## 📂 Resume
-
-[Click me!](https://drive.google.com/file/d/161zRebZaew_g_wuC49EbZclviqd6ot9t/view?usp=sharing)
-
-## 🌐 Portfolio
-
-Check out my portfolio: [duttaturja](https://duttaturja.netlify.app/)
----
 ## 🛠️ Skills & Technologies
 
 - **Programming Languages**:  
@@ -97,18 +98,12 @@ Check out my portfolio: [duttaturja](https://duttaturja.netlify.app/)
 ## 🎮 Fun Fact
 I play video games to escape reality… then rage-quit and face it anyway 😅.
 
----
 
-## 📫 Connect with Me
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/turja.dutta.313) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/duttaturja) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/duttaturja) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:duttaturja@gmail.com) 
 
 ---
 
  <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=duttaturja)](https://git.io/streak-stats)  -->
 
-I’m always excited to collaborate on meaningful projects, especially those focused on innovation and real-world impact. Let's connect and create something amazing!
 
----
 
 Thanks for stopping by my profile! 😊
